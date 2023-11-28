@@ -1,0 +1,23 @@
+PODS:
+  - AdapterSwift (1.0.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - AdapterSwift (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  AdapterSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AdapterSwift: b6708d13a659261c340ae09bf495d8f1aec30e35
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 8771b2a419caa87aa313c86aee05e4cd61de86cf
+
+COCOAPODS: 1.11.2

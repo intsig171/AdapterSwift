@@ -1,0 +1,16 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'AdapterSwift_Example' do
+  
+  pod 'SnapKit'
+  
+  pod 'AdapterSwift', :path => '../'
+
+  target 'AdapterSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

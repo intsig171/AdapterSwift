@@ -1,0 +1,6 @@
+framework module AdapterSwift {
+  umbrella header "AdapterSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
